@@ -1,6 +1,19 @@
 # MAYA
 Maya es un juego para 4 jugadores en los que se necesitan diferentes rotuladores de diferentes colores.
+Este juego consiste en conectar círculos los cuales serán rellenados por espirales geométricas y circulares dependiendo del sexo del jugador. Dichos círculos solo estarán conectados con el circulo anterior. 
 
-Maya es un juego para 4 jugadores en los que se necesitan diferentes rotuladores de diferentes colores. Este juego consiste en conectar círculos los cuales serán rellenados por espirales geométricas y circulares dependiendo del sexo del jugador. Dichos círculos solo estarán  conectados con el circulo anterior.  Normas: Las mujeres realizarán una espiral geométrica triangular. Los hombres realizarán una espiral geométrica circular.  1. En primer lugar, un jugador dibuja un circulo vacío. El segundo jugador rellena con la espiral correspondiente dicho círculo. El siguiente debe realizar un circulo conectándolo con el anterior. En el turno siguiente debe rellenar (teniendo en cuenta su tipo de espiral a realizar) dicho circulo, teniendo en cuenta la espiral realizada anteriormente, ya que esta se deberá realizar en sentido contrario. 3.Se parará cuando la hoja quede completa. 
+NORMAS: 
+-Las mujeres realizarán una espiral geométrica triangular. Los hombres realizarán una espiral geométrica circular.  
+1. En primer lugar, un jugador dibuja un circulo vacío. 
 
-4. Para rellenar cada círculo se debe de tardar un máximo de 4 segundos.  5.Tamaño de cada círculo 5-6cm.
+2.El segundo jugador rellena con la espiral correspondiente dicho círculo.
+
+3.El siguiente debe realizar un circulo conectándolo con el anterior. 
+
+4.En el turno siguiente debe rellenar (teniendo en cuenta su tipo de espiral a realizar) dicho circulo, teniendo en cuenta la espiral realizada anteriormente, ya que esta se deberá realizar en sentido contrario. 
+
+5.Se parará cuando la hoja quede completa. 
+
+6. Para rellenar cada círculo se debe de tardar un máximo de 4 segundos. 
+
+7.Tamaño de cada círculo 5-6cm.
