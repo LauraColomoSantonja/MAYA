@@ -18,3 +18,11 @@ NORMAS:
 6. Para rellenar cada círculo se debe de tardar un máximo de 4 segundos. 
 
 7.Tamaño de cada círculo 5-6cm.
+
+
+
+
+
+
+
+
