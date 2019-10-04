@@ -19,7 +19,13 @@ NORMAS:
 
 7.Tamaño de cada círculo 5-6cm.
 
-[alt text](https://github.com/LauraColomoSantonja/MAYA/blob/master/IMG-7452.JPG "Foto1")
+[alt text](https://github.com/LauraColomoSantonja/MAYA/blob/master/image1.jpg "Foto1")
+
+[alt text](https://github.com/LauraColomoSantonja/MAYA/blob/master/image2.jpg "Foto2")
+
+[alt text](https://github.com/LauraColomoSantonja/MAYA/blob/master/image3.jpg "Foto3")
+
+[alt text](https://github.com/LauraColomoSantonja/MAYA/blob/master/image4.jpgg "Foto4")
 
 
 
